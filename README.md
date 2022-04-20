@@ -1,5 +1,11 @@
 <h1 align="center" >Hi 👋, welcome to my GitHub </h1>
 
+<p align="center">
+<a href="https://www.linkedin.com/in/carlosruizdelaprada/">
+  <img align="center" src="https://img.shields.io/badge/-Carlos_Ruiz_de_la_Prada-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlosruizdelaprada/)" />
+</a>
+</p>
+
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> 
 		 <a href="https://en.wikipedia.org/wiki/Unix_shell" target="_blank" rel="noreferrer">
